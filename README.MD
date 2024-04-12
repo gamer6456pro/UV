@@ -1,4 +1,5 @@
 # TIW Static UV
+**MODIFIED WITH ANYWHERE CORS**
 
 Modified Version of the <a href="https://github.com/titaniumnetwork-dev/Ultraviolet-App" target="blank">Ultraviolet</a> backend. This modification changes the proxy **CONFIG**, making it work on static pages. 
 <br> <strong> Our Developers That Worked on This Project: </strong>
